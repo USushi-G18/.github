@@ -5,4 +5,4 @@ In questa organizzazione si trovano 3 repository:
  - Backend (sviluppato in Go) per lo sviluppo di API
  - Deliverables per la consegna dei documenti di progettazione
 
-Team: Di Cesare Daniele (Team Leader), Tonini Isaia, Zendri matteo
+Team: Di Cesare Daniele (Team Leader), Tonini Isaia, Zendri Matteo
