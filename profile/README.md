@@ -4,4 +4,5 @@ In questa organizzazione si trovano 3 repository:
  - Frontend (sviluppato in Svelte) per la parte grafica
  - Backend (sviluppato in Go) per lo sviluppo di API
  - Deliverables per la consegna dei documenti di progettazione
+
 Team: Di Cesare Daniele (Team Leader), Tonini Isaia, Zendri matteo
