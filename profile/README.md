@@ -1,4 +1,4 @@
-## Progetto Team-18 (Ingegneria del Software - A.A. 2023/2024)
+# Progetto Team-18 (Ingegneria del Software - A.A. 2023/2024)
 Organizzazione del progetto U-Sushi, una webapp sviluppata per il corso di Ingegneria del Software a.a 2023/2024 dell'Università degli Studi di Trento.
 In questa organizzazione si trovano 3 repository:
  - Frontend (sviluppato in Svelte) per la parte grafica
@@ -7,20 +7,27 @@ In questa organizzazione si trovano 3 repository:
 
 Team: [Di Cesare Daniele](https://github.com/DiCesareDaniele) (Team Leader), [Tonini Isaia](https://github.com/Isax03), [Zendri Matteo](https://github.com/ZendriXXX)
 
-## Screenshots
+# Screenshots
+
+## hosomaki
 ![screenshot](images/hosomaki.png)
 
+## piatti
 ![screenshot](images/plates.png)
 
+## login
 ![screenshot](images/login.png)
 
+## cucina
 ![screenshot](images/kitchen.png)
 
+## carrello 
 ![screenshot](images/cart.png)
 
+## categorie 
 ![screenshot](images/categories.png)
 
-## Eseguire in locale 
+# Eseguire in locale 
 - Frontend:
 Per prima cosa è necessario clonare la repo GitHub del frontend tramite il link
 https://github.com/USushi-G18/frontend.git.
@@ -41,7 +48,5 @@ openssl genrsa -out key.pem 2048.
 Generata la chiave, basta eseguire (all’interno della cartella principale del progetto) il
 comando docker compose up -d --build.
 Le APIs esposte dal backend si possono raggiungere sul localhost e sulle porte 8081
-per l’admin e 8082 per i clienti e la cucina:
-\- Admin -> http://localhost:8081/admin
-\- Clienti -> http://localhost:8082/client
-\- Cucina -> http://localhost:8082/employee
+per l’admin e 8082 per i clienti e la cucina: 
+admin -> http://localhost:8081/admin, clienti -> http://localhost:8082/client, cucina -> http://localhost:8082/employee
