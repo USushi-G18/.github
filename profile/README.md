@@ -7,7 +7,7 @@ In questa organizzazione si trovano 3 repository:
 
 Team: [Di Cesare Daniele](https://github.com/DiCesareDaniele) (Team Leader), [Tonini Isaia](https://github.com/Isax03), [Zendri Matteo](https://github.com/ZendriXXX)
 
-![screenshot](images/homosaki.png)
+![screenshot](images/hosomaki.png)
 
 ![screenshot](images/plates.png)
 
