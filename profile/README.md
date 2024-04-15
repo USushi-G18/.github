@@ -6,3 +6,15 @@ In questa organizzazione si trovano 3 repository:
  - Deliverables per la consegna dei documenti di progettazione
 
 Team: [Di Cesare Daniele](https://github.com/DiCesareDaniele) (Team Leader), [Tonini Isaia](https://github.com/Isax03), [Zendri Matteo](https://github.com/ZendriXXX)
+
+![screenshot](images/homosaki.png)
+
+![screenshot](images/plates.png)
+
+![screenshot](images/login.png)
+
+![screenshot](images/kitchen.png)
+
+![screenshot](images/cart.png)
+
+![screenshot](images/categories.png)
