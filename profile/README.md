@@ -7,6 +7,7 @@ In questa organizzazione si trovano 3 repository:
 
 Team: [Di Cesare Daniele](https://github.com/DiCesareDaniele) (Team Leader), [Tonini Isaia](https://github.com/Isax03), [Zendri Matteo](https://github.com/ZendriXXX)
 
+## Screenshots
 ![screenshot](images/hosomaki.png)
 
 ![screenshot](images/plates.png)
@@ -18,3 +19,29 @@ Team: [Di Cesare Daniele](https://github.com/DiCesareDaniele) (Team Leader), [To
 ![screenshot](images/cart.png)
 
 ![screenshot](images/categories.png)
+
+## Eseguire in locale 
+- Frontend:
+Per prima cosa è necessario clonare la repo GitHub del frontend tramite il link
+https://github.com/USushi-G18/frontend.git.
+A clonazione terminata eseguire (dentro alla directory) il comando npm install
+--force per installare le dipendenze necessarie.
+NOTA: l’opzione force si rende necessaria a causa di un warning dato da
+svelte-navigator in relazione con Vite
+Al termine dell’installazione delle dipendenze, eseguire il comando npm run dev
+Il sito si può visitare all’url http://localhost:5173 (può variare la porta, seguire le
+istruzioni sul terminale).
+- Backend:
+Per il backend è necessario avere Docker installato. Soddisfatto questo requisito è
+necessario clonare la repository tramite il link
+https://github.com/USushi-G18/backend.git. È necessario poi generare una chiave
+pem e per farlo basta creare una cartella /secrets nella root del progetto ed
+eseguire il seguente comando nella cartella appena creata:
+openssl genrsa -out key.pem 2048.
+Generata la chiave, basta eseguire (all’interno della cartella principale del progetto) il
+comando docker compose up -d --build.
+Le APIs esposte dal backend si possono raggiungere sul localhost e sulle porte 8081
+per l’admin e 8082 per i clienti e la cucina:
+\- Admin -> http://localhost:8081/admin
+\- Clienti -> http://localhost:8082/client
+\- Cucina -> http://localhost:8082/employee
