@@ -9,22 +9,22 @@ Team: [Di Cesare Daniele](https://github.com/DiCesareDaniele) (Team Leader), [To
 
 # Screenshots
 
-## hosomaki
+## Hosomaki
 ![screenshot](images/hosomaki.png)
 
-## piatti
+## Piatti
 ![screenshot](images/plates.png)
 
-## login
+## Login
 ![screenshot](images/login.png)
 
-## cucina
+## Cucina
 ![screenshot](images/kitchen.png)
 
-## carrello 
+## Carrello 
 ![screenshot](images/cart.png)
 
-## categorie 
+## Categorie 
 ![screenshot](images/categories.png)
 
 # Eseguire in locale 
