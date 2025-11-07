@@ -10,22 +10,22 @@ Team: [Di Cesare Daniele](https://github.com/DiCesareDaniele) (Team Leader), [To
 # Screenshots
 
 ## Hosomaki
-![screenshot](images/hosomaki.png)
+![screenshot](../images/hosomaki.png)
 
 ## Piatti
-![screenshot](images/plates.png)
+![screenshot](../images/plates.png)
 
 ## Login
-![screenshot](images/login.png)
+![screenshot](../images/login.png)
 
 ## Cucina
-![screenshot](images/kitchen.png)
+![screenshot](../images/kitchen.png)
 
 ## Carrello 
-![screenshot](images/cart.png)
+![screenshot](../images/cart.png)
 
 ## Categorie 
-![screenshot](images/categories.png)
+![screenshot](../images/categories.png)
 
 # Eseguire in locale 
 - Frontend:
